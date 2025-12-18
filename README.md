@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/macdonald-pyrngap/Social-Links-Profile-using-HTML-and-CSS)
-- Live Site URL: https://your-live-site-url.com
+- [Live Site URL](https://macdonald-pyrngap.github.io/Social-Links-Profile-using-HTML-and-CSS/)
 
 ## My process
 
@@ -66,6 +66,7 @@ In future projects, I want to:
 
 ## Author
 
-- Name: Macdonald
-- Frontend Mentor: https://www.frontendmentor.io/profile/yourusername
+- Name: Macdonald Pyrngap
+- [Github](https://github.com/macdonald-pyrngap)
+- [Frontend Mentor](https://www.frontendmentor.io/profile/macdonald-pyrngap)
 
