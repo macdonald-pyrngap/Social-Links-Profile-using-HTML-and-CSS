@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body{
+    background: hsl(0, 0%, 8%);
+    margin-top: 5%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.mainCard{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px;
+    width: 20em;
+    border-radius: 10px;
+    border: 1px solid black;
+    text-align: center;
+    color: white;
+    background-color:  hsl(0, 0%, 12%);
+}
+
+.profilePic{
+    background: hsl(0, 0%, 12%);
+    display: flex;
+    justify-content: center;
+}
+
+img{
+    height: 95px;
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+h1{
+    font-size: 25px;
+    font-weight: 600;
+    background-color: hsl(0, 0%, 12%);
+    font-family: inter, sans-serif;
+}
+
+h2{
+    color: hsl(75, 94%, 57%);
+    margin-top: -10px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: hsl(0, 0%, 12%);
+    font-family: inter, sans-serif;
+}
+
+p{
+    margin-top: 20px;
+    font-size: 14px;
+    background-color: hsl(0, 0%, 12%);
+    font-family: inter, sans-serif;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: column;
+}
+
+button{
+    color: white;
+    background-color: hsl(0, 0%, 20%);
+    margin: 8px 40px;
+    width: 21em;
+    height: 3em;
+    border: none;
+    border-radius: 8px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.footer{
+    margin-top: 50px;
+    width: 15em;
+    text-align: center;
+    color: white;
+    font-family: Inter, sans-serif;
+}
+
