@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/social-links-profile-using-html-and-css
+- [Solution URL](https://github.com/macdonald-pyrngap/Social-Links-Profile-using-HTML-and-CSS)
 - Live Site URL: https://your-live-site-url.com
 
 ## My process
